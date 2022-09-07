@@ -20,7 +20,7 @@
   </head>
   <body>
     <h1>Hello World</h1>
-    <p>Saya Siti Nur Alifah, NIM :teknik 41226055</p>
+    <p>Saya juli, NIM :teknik 41226055</p>
     <button onclick="alert('Hello JavaScript')">Hello JavaScript</button>
   </body>
 </html>
